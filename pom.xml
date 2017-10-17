@@ -35,7 +35,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.myslyv4uk.weather</groupId>
-			<artifactId>true_weather_pure</artifactId>
+			<artifactId>true_weather_pure.api</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
